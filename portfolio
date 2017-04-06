@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang=“en”>
+	<head>
+		<meta charset=“utf-8”>
+		<title>Portfolio</title>
+
+		<link rel="stylesheet" href="css/styles.css">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96022219-1', 'auto');
+  ga('send', 'pageview');
+
+</script>        
+	</head>
+
+       
+       
+       
+       	
+<!-- Did it change? Body -->
+    	<body>
+        <h1> ANDREA TOBAR </h1>
+
+<section class="microscope">
+             <img src="img/MicroScopeProfile.jpg" class="profilepic" alt="">
+            </section>
+          
+		
+<header id="headerbar">
+      <nav>
+    <section>
+    <ul class="pagesnav">
+
+    
+      <li><a href="http://drea286.github.io/index">Resume</a></li>
+      
+      <li><a href="http://drea286.github.io/coverpage">Cover Page</a>
+      </li>
+      
+       
+      
+    </ul>
+
+    </section>
+</nav>
+            </header>
+
+    
+     <!--      
+    <section>
+        <img class="img-circle resize" src="img/WorkProfilePic.JPG" alt="">
+    </section>
+		-->
+    <nav>
+
+  
+  
+  
+<!--  A Nav Bar for the Guides  -->
+   <div>
+      
+    <ul>
+         <h3 id="myname">Instruction Manuals</h3>
+
+      <li><a href="https://www.ifixit.com/Guide/Sony+Alpha+NEX-5N+Motherboard+Replacement/51976">Motherboard Replacement Guide </a></li>
+      <li><a href="https://www.ifixit.com/Guide/Sony+Alpha+NEX-5N+E-mount+Replacement/52400">E-mount Replacement Guide</a></li>
+      <li><a href="https://www.ifixit.com/Guide/Sony+Alpha+NEX-5N+Lens+Release+Button+Replacement/52441">Lens Replacement Guide</a></li>
+      <li><a href="https://www.ifixit.com/Guide/Sony+Alpha+NEX-5N+Camera+Image+Sensor+Replacement/52779">Sensor Replacement Guide</a></li>
+      <li><a href="https://www.ifixit.com/Guide/Sony+Alpha+NEX-5N+LCD++Glass+Screen+Protector+Replacement/52404">Protector Replacement Guide</a></li>
+   
+  
+    <h3 id="myname">Grant Proposals</h3>    
+        
+    <li><a href="pdfs/ISAACProposalPackageAndreaTobar.pdf">Grant Proposal for ISAAC Foundation</a> </li>
+        
+     <h3 id="myname">Adobe CC After Effects - Kinetic Typography</h3>    
+     
+  <video width="320" height="240" controls>
+  <source src="video/TobarAndreaLab3.mov" type="video/mp4">
+</video>
+       
+       <h3 id="myname">Adobe CC Premiere - Professional Interview</h3>    
+     
+  <video width="320" height="240" controls>
+  <source src="video/ATobarLabFinal.mov" type="video/mp4">
+</video>
+        
+        <h3 id="myname">Photoshop / Illustrator / FrameMaker 10</h3>
+    </ul>
+   </div>
+    
+    </nav>
+    
+    
+        
+
+
+   
+<section>
+
+  
+    
+
+  
+  
+  
+  
+  
+<!--  First gallery image -->
+    <ul>
+   <a href="#item-1">
+    <img class="small" src="img/Tobar_216_Pro1PNG.png" alt="" />
+  </a>
+  
+      <div class="overlay" id="item-1">
+        <img class="large" src="img/Tobar_216_Pro1PNG.png" alt="" />
+        <a href="#">Exit</a>
+      </div>
+  
+  
+  
+  
+  
+  
+<!--  Second gallery image -->
+  <a href="#item-2">
+    <img class="small" src="img/Tobar_216_Pro2.jpeg" alt="" />
+  </a>
+  
+      <div class="overlay" id="item-2">
+        <img class="large" src="img/Tobar_216_Pro2.jpeg" alt="" />
+        <a href="#">Click to Exit</a>
+      </div>
+
+
+
+
+
+
+
+<!--  Third gallery image  -->
+  <a href="#item-3">
+    <img class="small" src="img/Tobar_216_Pro3.jpg" alt="" />
+  </a>
+  
+      <div class="overlay" id="item-3">
+        <img class="large" src="img/Tobar_216_Pro3.jpg" alt="" />
+        <a href="#">Exit</a>
+      </div>
+  
+  
+  
+  
+  
+  
+  
+ <!-- Fourth gallery image  -->
+ <a href="#item-4">
+    <img class="small" src="img/Tobar_216_Final.jpg" alt="" />
+  </a>
+  
+      <div class="overlay" id="item-4">
+        <img class="large" src="img/Tobar_216_Final.jpg" alt="" />
+        <a href="#">Exit</a>
+      </div>
+
+  
+  
+  
+  
+  
+  <!--   Fifth gallery image  -->
+ <a href="#item-5">
+    <img class="small" src="../img/ConferenceBookfinal2.jpg" alt="" />
+  </a>
+  
+      <div class="overlay" id="item-5">
+        <img class="large" src="../img/ConferenceBookfinal2.jpg" alt="" />
+        <a href="#">Exit</a>
+      </div>
+  </ul>
+</section>
+  
+
+
+
+
+
+
+
+
+
+<!--
+<h3>Check out all my Illustrator images!</h3>
+<div class="thumbnails">
+<ul>
+  <li>
+    <a href="#actual-1">
+      <img src="img/Tobar_216_Pro1PNG.png" alt="" />
+    </a>
+  </li>
+   <li>
+    <a href="#actual-2">
+      <img src="img/Tobar_216_Pro2.jpeg" alt="" />
+    </a>
+  </li>
+  <li>
+    <a href="#actual-3">
+      <img src="img/Tobar_216_Pro3.jpg" alt="" />
+    </a>
+  </li>
+  <li>
+    <a href="#actual-4">
+      <img src="img/Tobar_216_Final.jpg" alt="" />
+    </a>
+  </li>
+</ul>
+</div>
+  
+<h3>Click on a thumbnail above to see larger image below:</h3>
+
+<div class="actual">
+  <ul>
+    <li>
+      <img src="img/Tobar_216_Pro1PNG.png" id="actual-1"/>
+    </li>
+    <li>
+      <img src="img/Tobar_216_Pro2.jpeg" id="actual-2" />
+    </li>
+    <li>
+     <img src="img/Tobar_216_Pro3.jpg" id="actual-3" />     
+    </li>
+    <li>
+     <img src="img/Tobar_216_Final.jpg" id="actual-4" />     
+    </li>
+  </ul>
+</div>
+-->
+	
+	
+	
+	
+	
+	</body>
+</html>
